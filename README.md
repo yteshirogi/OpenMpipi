@@ -7,3 +7,9 @@ Installation instructions:
 
 
 ![coex](images/coex.png)
+
+
+### Difference from original model
+
+- enabling MDP dimer which interacts with globular domains
+- change the simulation scheme for stability (pulling -> box size change & pulling -> equilibration)
